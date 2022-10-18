@@ -7,5 +7,5 @@ Pedro Ivo Penha<br>
 Renan Carneiro Batista
 <h4/>
 <h5>  
-  Conferir os arquivos da pasta Projeto1, para ver o arquivo com o código em python, e o arquivo com o relatório
+  Conferir os arquivos da pasta Projeto 1, para ver o arquivo com o código em python, e o arquivo com o relatório
 <h5/>
