@@ -2,8 +2,8 @@
 Repositório destinado aos trabalhos e atividades da cadeira de Análise de Algoritmos
 <h1>Insertion Sort vs Insortion Sort com Busca Binaria:<h1/>
 <h4>
-Equipe: 
-Pedro Ivo Penha
+Equipe:<br>
+Pedro Ivo Penha<br>
 Renan Carneiro Batista
 <h4/>
 <h5>  
